@@ -1,5 +1,7 @@
 # Análisis y Modelado Relacional: Caso E-Commerce Olist (Brasil)
 
+▶️ **[Ver Presentación Ejecutiva Interactiva del Proyecto en Gamma](https://gamma.app/docs/Revision-Estrategica-E-Commerce-Olist-d350iooogc0p2z0)**
+
 ## Objetivo Didáctico y de Negocio
 Este proyecto centraliza y analiza más de 100,000 registros de transacciones logísticas para identificar áreas de oportunidad en los tiempos de entrega. El enfoque principal del desarrollo fue establecer una arquitectura de datos limpia y escalable que permita explicar conceptos complejos de bases de datos de forma visual e intuitiva.
 
