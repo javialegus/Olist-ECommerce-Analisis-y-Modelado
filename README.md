@@ -23,3 +23,8 @@ Se desarrollaron métricas temporales precisas para evaluar el rendimiento logí
 * **Volumen:** La plataforma procesó un total de 16.01 millones (BRL) en ingresos.
 * **Logística:** El promedio de entrega al cliente final se estableció en 12.50 días.
 * **Líderes de Mercado:** La categoría "Health & Beauty" demostró ser el principal motor financiero del ecosistema.
+
+## Origen y Fuente de los Datos
+Todos los datos analizados en este proyecto provienen del conjunto de datos público y anonimizado oficial de Olist. Comprenden más de 100,000 transacciones reales realizadas entre 2016 y 2018 en múltiples plataformas de e-commerce integradas en Brasil.
+
+* **Enlace al Dataset Oficial:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
