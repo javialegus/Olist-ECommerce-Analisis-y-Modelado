@@ -5,7 +5,7 @@
 ## Descarga del Proyecto (.pbix)
 Debido a que el modelo de datos supera el límite de almacenamiento estándar de GitHub, el archivo original de Power BI ha sido alojado en un repositorio en la nube para su auditoría técnica.
 
-▶️ **[Descargar Modelo Relacional y Dashboard (.pbix)](https://drive.google.com/file/d/1R2PD00tAsI19EZYf3hqBOyu-3kzYroFQ/view?usp=drive_link)**
+▶️ **[Descargar Modelo Relacional y Dashboard (.pbix)](https://drive.google.com/file/d/1MJfC-xhBj0NzbqsNecS2DZi3A9DvERwS/view?usp=sharing)**
 
 ## Objetivo Didáctico y de Negocio
 Este proyecto centraliza y analiza más de 100,000 registros de transacciones logísticas para identificar áreas de oportunidad en los tiempos de entrega. El enfoque principal del desarrollo fue establecer una arquitectura de datos limpia y escalable que permita explicar conceptos complejos de bases de datos de forma visual e intuitiva.
